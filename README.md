@@ -1,2 +1,2 @@
 # McCommands
-Minecraft commands
+Bunch of Minecraft commands. 

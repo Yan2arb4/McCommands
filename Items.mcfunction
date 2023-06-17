@@ -1,0 +1,1 @@
+/give Yan2arb4 minecraft:wooden_axe{CanDestroy:["minecraft:oak_leaves","minecraft:spruce_leaves"],Damage:45}
